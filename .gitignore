@@ -1,0 +1,14 @@
+C#/AuthorizationCodeGrant/bin/
+C#/AuthorizationCodeGrant/obj/
+C#/AuthorizationServer/bin/
+C#/AuthorizationServer/obj/
+C#/ClientCredentialGrant/bin/
+C#/ClientCredentialGrant/obj/
+C#/Constants/obj/
+C#/ImplicitGrant/bin/
+C#/ImplicitGrant/obj/
+C#/ResourceOwnerPasswordCredentialGrant/bin/
+C#/ResourceOwnerPasswordCredentialGrant/obj/
+C#/ResourceServer/bin/
+C#/ResourceServer/obj/
+C#/packages/
